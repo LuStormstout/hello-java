@@ -1,5 +1,10 @@
-## 这是我第一次学习 Java 的练习代码
+## My First Java Practice Code
 
 ---
 
-- 跟着 [GrandmaCan -我阿嬷都会](https://www.youtube.com/@GrandmaCan) 的这个教程开始学习 Java [【Java】3小时初学者Java教程 #Java #Java教程 #Java入门 | 全面了解 Java – 从真实世界案例学习Java](https://www.youtube.com/watch?v=nQ1Z3NxpfIw)
+This repository contains the practice code I wrote while learning Java for the first time.
+
+### Tutorial
+
+I began learning Java by following this tutorial from [GrandmaCan - Even My Grandma Can](https://www.youtube.com/@GrandmaCan):  
+[【Java】3-Hour Beginner Java Tutorial #Java #JavaTutorial #JavaForBeginners | Comprehensive Java Overview – Learn Java with Real-World Examples](https://www.youtube.com/watch?v=nQ1Z3NxpfIw)
